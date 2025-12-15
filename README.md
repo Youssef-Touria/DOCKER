@@ -15,6 +15,9 @@
   ![alt text](image/docker%20pull.jpg)
   - docker images 2
   ![alt text](image/docker%20images2.jpg)
+  - docker version 2
+  ![alt text](image/docker%20version.jpg)
+  
   
 
 
