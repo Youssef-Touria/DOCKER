@@ -13,6 +13,8 @@
   ![alt text](image/docker%20images.jpg)
    - docker pull
   ![alt text](image/docker%20pull.jpg)
+  - docker images 2
+  ![alt text](image/docker%20images2.jpg)
   
 
 
