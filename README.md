@@ -38,6 +38,10 @@
 
  -- docker container prune
   ![docker container prune](image/dockercontainerprune.jpg)
+  
+  - docker rmi hello-world nginx ubuntu
+  ![docker rmi multiple images](image/docker-rmi-multiple-images.jpg)
+
 
 
 
