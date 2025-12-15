@@ -18,6 +18,8 @@
 - docker version
   ![alt text](image/docker%20version.jpg)
   - docker info2
-  ![alt text](image/docker%20info%202.jpg)
+    ![alt text](image/docker%20info%202.jpg)
 - docker ps2
   ![alt text](image/docker%20ps%202.jpg)
+- docker ps -a
+  ![alt text](image/docker ps a.jpg)
