@@ -29,5 +29,12 @@
   ![alt text](image/docker%20run2.jpg)
   - docker stop2
   ![alt text](image/docker%20stop2.jpg)
+   
+  - docker rm mon-container
+  ![docker rm mon-container](image/docker-rm-mon-container.jpg)
+
+  
+
+
 
   
