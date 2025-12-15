@@ -22,4 +22,4 @@
 - docker ps2
   ![alt text](image/docker%20ps%202.jpg)
 - docker ps -a
-  ![alt text](image/docker ps a.jpg)
+  ![alt text](image/docker%20ps%20a.jpg)
