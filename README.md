@@ -27,5 +27,7 @@
   ![alt text](image/docker%20images%203.jpg)
   - docker run2
   ![alt text](image/docker%20run2.jpg)
+  - docker stop2
+  ![alt text](image/docker%20stop2.jpg)
 
   
