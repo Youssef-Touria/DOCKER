@@ -9,5 +9,7 @@
  
   - docker stop
   ![alt text](image/docker%20stop.jpg)
+   - docker images
+  ![alt text](image/docker%20images.jpg)
 
 
