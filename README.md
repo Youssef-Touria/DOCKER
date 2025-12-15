@@ -31,8 +31,16 @@
   ![alt text](image/docker%20stop2.jpg)
    
   - docker rm mon-container
-  ![docker rm mon-container](image/docker-rm-mon-container.jpg)
+  ![alt text](image/docker-rm-mon-container.jpg)
 
+- docker rm mon-container wizardly_greider
+  ![docker rm multiple containers](image/docker-rm-multiple-containers.jpg)
+
+
+   
+
+
+  
   
 
 
