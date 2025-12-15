@@ -25,3 +25,7 @@
   ![alt text](image/docker%20ps%20a.jpg)
   - docker images 3
   ![alt text](image/docker%20images%203.jpg)
+  - docker run2
+  ![alt text](image/docker%20run2.jpg)
+
+  
