@@ -2,23 +2,20 @@
   ![alt text](image/docker%20info.jpg)
 - docker version
   ![alt text](image/docker%20version.jpg)
- - docker ps
- ![alt text](image/docker%20ps.jpg)
- - docker run
+- docker ps
+  ![alt text](image/docker%20ps.jpg)
+- docker run
   ![alt text](image/docker%20run.jpg)
- 
-  - docker stop
+
+- docker stop
   ![alt text](image/docker%20stop.jpg)
-   - docker images
+- docker images
   ![alt text](image/docker%20images.jpg)
-   - docker pull
+- docker pull
   ![alt text](image/docker%20pull.jpg)
-  - docker images 2
+- docker images 2
   ![alt text](image/docker%20images2.jpg)
-  - docker version 2
+- docker version
   ![alt text](image/docker%20version.jpg)
-  
-  
-
-
-
+- docker ps2
+  ![alt text](image/docker%20ps%202.jpg)
