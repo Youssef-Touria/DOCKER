@@ -36,6 +36,12 @@
 - docker rm mon-container wizardly_greider
   ![docker rm multiple containers](image/docker-rm-multiple-containers.jpg)
 
+ -- docker container prune
+  ![docker container prune](image/dockercontainerprune.jpg)
+
+
+
+
 
    
 
