@@ -1,35 +1,37 @@
-- docker info
-  ![alt text](image/docker%20info.jpg)
+
 - docker version
-  ![alt text](image/docker%20version.jpg)
+  ![alt text](image/dockerversion.jpg)
+  - docker info
+  ![alt text](image/dockerinfo.jpg)
 - docker ps
-  ![alt text](image/docker%20ps.jpg)
+  ![alt text](image/dockerps.jpg)
+  - docker images
+  ![alt text](image/dockerimages.jpg)
 - docker run
-  ![alt text](image/docker%20run.jpg)
+  ![alt text](image/dockerrun.jpg)
 
 - docker stop
-  ![alt text](image/docker%20stop.jpg)
-- docker images
-  ![alt text](image/docker%20images.jpg)
+  ![alt text](image/dockerstop.jpg)
+
 - docker pull
-  ![alt text](image/docker%20pull.jpg)
+  ![alt text](image/dockerpull.jpg)
 - docker images 2
-  ![alt text](image/docker%20images2.jpg)
+  ![alt text](image/dockerimages2.jpg)
 - docker version
-  ![alt text](image/docker%20version.jpg)
-  - docker info2
-    ![alt text](image/docker%20info%202.jpg)
-- docker ps2
-  ![alt text](image/docker%20ps%202.jpg)
-- docker ps -a
-  ![alt text](image/docker%20ps%20a.jpg)
+  ![alt text](image/dockerversion.jpg)
+  - docker info-2
+    ![alt text](image/dockerinfo-2.jpg)
+- docker ps-2
+  ![alt text](image/dockerps-2.jpg)
+- docker ps-a
+  ![alt text](image/dockerps-a.jpg)
 
   - docker images 3
-    ![alt text](image/docker%20images%203.jpg)
-  - docker run2
-    ![alt text](image/docker%20run2.jpg)
-  - docker stop2
-    ![alt text](image/docker%20stop2.jpg)
+    ![alt text](image/dockerimages3.jpg)
+  - docker run-2
+    ![alt text](image/dockerrun-2.jpg)
+  - docker stop-2
+    ![alt text](image/dockerstop-2.jpg)
 
   - docker rm mon-container
     ![alt text](image/docker-rm-mon-container.jpg)
