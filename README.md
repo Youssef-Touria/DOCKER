@@ -47,3 +47,10 @@
 
   - docker rmi hello-world nginx ubuntu
     ![docker rmi multiple images](image/docker-rmi-multiple-images.jpg)
+    - docker run -it --rm -p 8081:80 nginx
+  ![docker run nginx port 8081](image/docker-run-nginx-8081.jpg)
+
+
+
+
+    
