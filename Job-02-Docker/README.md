@@ -8,3 +8,9 @@
   ![alt-text](images/verification.jpg) 
   verification page
   ![alt-text](images/page.jpg)
+  
+
+-nouveau conteneur
+ ![alt-text](images/versionmodifiée.jpg)
+
+Modification de App.js -> Build de nouvelle image -> run un nouveau conteneur avec la nouvelle image 
