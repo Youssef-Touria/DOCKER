@@ -6,3 +6,5 @@
   ![alt-text](images/lancer-container.jpg) 
   -verification s'il est lancé 
   ![alt-text](images/verification.jpg) 
+  verification page
+  ![alt-text](images/page.jpg)
