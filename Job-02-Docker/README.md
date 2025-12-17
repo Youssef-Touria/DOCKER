@@ -4,3 +4,5 @@
   ![alt-text](images/creation-image.jpg)
   Lancer un container avec cette image 
   ![alt-text](images/lancer-container.jpg) 
+  -verification s'il est lancé 
+  ![alt-text](images/verification.jpg) 
