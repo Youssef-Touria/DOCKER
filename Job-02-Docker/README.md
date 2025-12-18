@@ -17,4 +17,8 @@
   ![alt-text](images/push_nouvelle_image.jpg)
 
   - Recuperation de l'image khalyahmad
-    ![alt-text](images/recuperation-image.jpg)
+    ![alt-text](images/image-ahmad.jpg)
+
+    - Run conteneur sur l'image khalyahmad
+
+  ![alt-text](images/imagemodifiée.jpg)
