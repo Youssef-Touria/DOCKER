@@ -20,5 +20,10 @@
     ![alt-text](images/image-ahmad.jpg)
 
     - Run conteneur sur l'image khalyahmad
-
   ![alt-text](images/imagemodifiée.jpg)
+
+   Push l'image de camarade sur dockerhub:
+  ![alt-text](images/push-camarade.jpg) 
+
+  ![alt-text](images/push_camarade.jpg) 
+  
