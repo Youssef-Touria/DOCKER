@@ -1,12 +1,12 @@
 - Recherche de l'image sur docker hub:
-  ![alt-text](image/recherche_image.jpg)
+  ![alt-text](image/recherche_image_v2.jpg)
 
 
 - Recuperation de l'image:
   ![alt-text](image/recuperation_image.jpg)
 
 - Image disponible dans la liste des images locales:
-  ![alt-text](image/image_visible.jpg)
+  ![alt-text](image/image_locale.jpg)
 
 - Run l'image:
   ![alt-text](image/commande_run.jpg)
