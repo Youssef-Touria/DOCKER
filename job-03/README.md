@@ -47,7 +47,7 @@ Méthode 2 : Docker Desktop > Containers (ID/Name visible)
 
 ## 8) Arrêt des conteneurs
 Commande (terminal) : `docker stop <CONTAINER_ID>` (ou `docker stop supermario-8600`)
-![alt-text](image/arret_supermario2.jpg)
+![alt-text](image/arret_supermario-8600.jpg)
 
 Arrêt via Docker Desktop (bouton Stop)
 ![alt-text](image/arret_supermario.jpg)
