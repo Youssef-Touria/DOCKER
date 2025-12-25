@@ -59,10 +59,10 @@ Résultat attendu : le jeu n’est plus accessible (container stoppé).
 
 ## 10) Suppression des conteneurs (2 façons)
 Terminal : `docker rm <CONTAINER_ID>` / `docker rm supermario-8600`
-![alt-text](image/suppr_conteneur_1.jpg)
+![alt-text](image/suppr_container_1.jpg)
 
 Docker Desktop : Containers > Delete/Remove
-![alt-text](image/suppr_conteneur_2.jpg)
+![alt-text](image/suppr_container_2.jpg)
 
 ## 11) Suppression de l'image (2 façons)
 Terminal : `docker rmi pengbai/supermario`
