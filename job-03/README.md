@@ -55,6 +55,7 @@ Arrêt via Docker Desktop (bouton Stop)
 ## 9) Vérification après arrêt
 Résultat attendu : le jeu n’est plus accessible (container stoppé).
 ![alt-text](image/utilisation_apres_arret.jpg)
+![alt-text](image/container-stoppé.jpg)
 
 ## 10) Suppression des conteneurs (2 façons)
 Terminal : `docker rm <CONTAINER_ID>` / `docker rm supermario-8600`
