@@ -50,7 +50,7 @@ Commande (terminal) : `docker stop <CONTAINER_ID>` (ou `docker stop supermario-8
 ![alt-text](image/arret_supermario-8600.jpg)
 
 Arrêt via Docker Desktop (bouton Stop)
-![alt-text](image/arret_supermario.jpg)
+![alt-text](image/arret_supermario-8061.jpg)
 
 ## 9) Vérification après arrêt
 Résultat attendu : le jeu n’est plus accessible (container stoppé).
